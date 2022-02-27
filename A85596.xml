@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great fight in Scotland, between the English forces commanded by his Excellency the Lord General Monk, and the King of Scots forces, under the conduct of Lieu. Gen. Middleton; with the particulars thereof; the manner of the engagement, and the lamentable loss on both sides. Likewise, the resolution of the highlanders, to fight either to death or victory; and the number of men engaged in the late plot against the Lord Protector.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85596</idno>
+            <idno type="STC">Wing G1699</idno>
+            <idno type="STC">Thomason E738_9</idno>
+            <idno type="STC">ESTC R206995</idno>
+            <idno type="EEBO-CITATION">99866072</idno>
+            <idno type="PROQUEST">99866072</idno>
+            <idno type="VID">118332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118332)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E738[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great fight in Scotland, between the English forces commanded by his Excellency the Lord General Monk, and the King of Scots forces, under the conduct of Lieu. Gen. Middleton; with the particulars thereof; the manner of the engagement, and the lamentable loss on both sides. Likewise, the resolution of the highlanders, to fight either to death or victory; and the number of men engaged in the late plot against the Lord Protector.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118332:1" rendition="simple:additions"/>
+            <p>A great FIGHT IN SCOTLAND, Between the Engliſh Forces commanded by his Excellency the Lord General MONK, <hi>AND</hi> The King of Scots Forces, under the con<g ref="char:EOLhyphen"/>duct of Lieu. Gen. <hi>Middleton;</hi> With the Parti<g ref="char:EOLhyphen"/>culars there<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, the manner of the Engagement, and the lamentable loſs on both ſides.</p>
+            <p>Likewiſe, the Reſolution of the Highlanders, to fight either to Death or Victory; and the number of men engaged in the late <hi>Plot</hi> againſt the <hi>Lord Protector.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for G. <hi>Horton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118332:2"/>
+            <pb n="3" facs="tcp:118332:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the eleventh inſtant Gen. Monk, with divers Officers, went from Dalkieth to Sterling, where he hath given Orders for ſecuring ſome paſſes, to prevent the Scots (from the Highlands) from falling into the Lowlands therabouts, as formerly they have done; he is very buſie in conſultation with the Officers a<g ref="char:EOLhyphen"/>bout marching into the field; and after mature de<g ref="char:EOLhyphen"/>liberation, expreſly gave command, that Collonel Cooper, with a ſelect number of horſe and foot, ſhould advance towards the enemy, to diſſipate the new Levies, which indeed were many; In order whereunto, the ſaid Collonel took his march with fifteen hundred men, and within the ſpace of two dayes engaged the enemy at three diſtinct paſſes, who (to ſpeak truth) with great reſolution and gallantry diſputed the field from Hill to Hill; and
+<pb n="4" facs="tcp:118332:3"/>Dale to Dale, till at laſt, by the comming in of the additional forces, theſe valiant Hero<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s were forced to retreat with ſome loſs; which did ſo inrage the adverſe party, that unanimouſly they are reſolved to give us a field, and fight it out to the laſt man, de<g ref="char:EOLhyphen"/>terminating with themſelves, neither to give nor take quarter; in purſuance whereof, we hear that Gen. Middleton has ſent forth his Maſters Royal Mandate, requiring and conjuring all perſons what<g ref="char:EOLhyphen"/>ſoever from 16 to 60, to come in to their aſſiſtance, and accordingly by an expreſs command all his Field-Officers were ſummoned to a general Ran<g ref="char:EOLhyphen"/>devouz; a Liſt of their Names take as followeth:
+<list>
+                  <item>The Earl of Glencairn,</item>
+                  <item>The Earl of Seaforth,</item>
+                  <item>The Earl of Athol,</item>
+                  <item>The Earl of Kelley,</item>
+                  <item>The Earl of Marſhal,</item>
+                  <item>The Earl of Calender,</item>
+                  <item>The Earl of Lawderdail,</item>
+                  <item>The Earl of Lowdon,</item>
+                  <item>The Lord Machlin,</item>
+                  <item>The Lord Spyvie,</item>
+                  <pb n="5" facs="tcp:118332:3"/>
+                  <item>The L. Montgomery,</item>
+                  <item>The L. Cranſton,</item>
+                  <item>The L. Kenmore,</item>
+                  <item>The Lord Lorn,</item>
+                  <item>The Lord Sincleer,</item>
+                  <item>The Lord N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ppier,</item>
+                  <item>The Lord Womat,</item>
+                  <item>Maj. Gen. Day<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</item>
+                  <item>Sir George Monroe,</item>
+                  <item>Sir Arthur Forbis,</item>
+               </list>
+            </p>
+            <p>In obedience whereunto, they have randovouz'd their Army in two Bodies, being reſolved to diſ<g ref="char:EOLhyphen"/>pute the field, and fight it out either to Death or Victory: Whereupon, his Excellency the Lord General called a Council of Officers, whoſe reſult was, immediatly to take the field, and fight the E<g ref="char:EOLhyphen"/>nemy; and in order thereunto, the whole Army advanced, ingaged the enemy, diſſipated the For<g ref="char:EOLhyphen"/>lorn Hope, and took above 500 priſoners; which Middleton perceiving, immediatly commanded the Engliſh Cavalry, who charged with great Reſolu<g ref="char:EOLhyphen"/>tion and dexterity, but were forced to retreat to the main body, if we may give credit to the report of the ſtory. Edenburgh 20, inſtant.</p>
+            <p>As touching the late Plot, many are apprehend<g ref="char:EOLhyphen"/>ed, and Alderman B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce his ſon is again taken.</p>
+            <pb n="6" facs="tcp:118332:4"/>
+            <p>And ſeeing that the Lord hath bin plea<g ref="char:EOLhyphen"/>ſed to make ſo timely a diſcovery of this horrid Conſpiracy, we cannot but with all thankfulneſs of heart call to remembrance the late eminent actings of the providence of the great Jehovah among us, in expeling thoſe Satanical Clouds, &amp; ordaining a glo<g ref="char:EOLhyphen"/>rious peace to ſhine amongſt us; And that after ſuch wonderful diſcoveries, and varie<g ref="char:EOLhyphen"/>ty of changes, which have paſſed over His Highneſs, we cannot but unammouſly cen<g ref="char:EOLhyphen"/>ter, and with great alacrity caſt Anch<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Harbour of Hope, being aſſured that we ſhal find a ſettlement of theſe Nations in Truth and Righteouſneſs, by the exer<g ref="char:EOLhyphen"/>ciſe of the declared Government under his Highneſs; wherein, conſiſting the preſent ſupport of our Religion and Lawes, We cannot but acknowledg it as a great mercy of God, that ſo ſuitable a Remedy ſhould be ſo ſuddenly applyed to our growing
+<pb n="7" facs="tcp:118332:4"/>maladies; and that our hopes after many years patient attendance upon other In<g ref="char:EOLhyphen"/>ſtruments (when almoſt ſwallowed up in the midſt of our too juſt fears, plots, and conſpiracies) are now revived, and recover<g ref="char:EOLhyphen"/>ed from ſo doubtful a condition, by the rai<g ref="char:EOLhyphen"/>ſing up of His Highneſs in this Juncture of time, and preſerving him from his blood<g ref="char:EOLhyphen"/>thirſty Enemies, ſo ſeaſonably to remain ſtill our Ruler, who hath been ſo ſucceſſe<g ref="char:EOLhyphen"/>fully our Leader, God having already put upon him as much of the honour of Our peace as many a noble Spirit of the hazard of our wars; and we deſire to honour him as much ſitting at the Helm of Govern<g ref="char:EOLhyphen"/>ment, as in the head of our Armies; in bringing to effect thoſe great things, for which the faithful in theſe Nations have from the beginning of our troubles conti<g ref="char:EOLhyphen"/>nually contended with GOD by earneſt prayer, and long with their enemies by vaſt
+<pb n="8" facs="tcp:118332:5"/>expence of blood. So that upon diligent inquiry in<g ref="char:EOLhyphen"/>to the whole buſineſs, divers are taken both in City and Countrey; amongſt the reſt, maſter Hutchins maſter of the Sun Tavern in Alderſgate ſtreet was carryed away. And diver, other Gentlemen were taken, who unhappily had involved them in this Aſſaſſination. No leſs then 50000 are ſaid to be Complices and Confederates; and a Liſt of as many more is ſaid to be preſented. A ſhort time (pro<g ref="char:EOLhyphen"/>bably) may produce ſtrange Alterations, and va<g ref="char:EOLhyphen"/>riety of Changes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
